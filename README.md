@@ -2,7 +2,7 @@
 
 __The repo contains a list of python files used to automate random and tedious process involved with data obtained from various sources.__
  
-- Images in the output_images repo were obtained from (hampusborgos/country-flags)[https://github.com/hampusborgos/country-flags] repo.
+- Images in the output_images repo were obtained from [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) repo.
 - Country/economic regions pdf file was obtain from (IBAN's list of country codes Alpha-2 & Alpha-3 website)[https://www.iban.com/country-codes]
 - The PDF was then converted to a csv file using a (free online tool)[https://www.zamzar.com/convert/pdf-to-csv/]
 - The csv file with the list of countries was parsed and cleaned, clean data was saved to the (List of countries.csv)[https://github.com/MicahNjeru/Python-Automation-Files/blob/main/List%20of%20countries.csv] file.
