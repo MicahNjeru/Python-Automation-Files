@@ -3,12 +3,12 @@
 __The repo contains a list of python files used to automate random and tedious process involved with data obtained from various sources.__
  
 - Images in the output_images repo were obtained from [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) repo.
-- Country/economic regions pdf file was obtain from (IBAN's list of country codes Alpha-2 & Alpha-3 website)[https://www.iban.com/country-codes]
-- The PDF was then converted to a csv file using a (free online tool)[https://www.zamzar.com/convert/pdf-to-csv/]
-- The csv file with the list of countries was parsed and cleaned, clean data was saved to the (List of countries.csv)[https://github.com/MicahNjeru/Python-Automation-Files/blob/main/List%20of%20countries.csv] file.
-- Countries JSON data file from (hampusborgos/country-flags/countries.json)[https://github.com/hampusborgos/country-flags/blob/main/countries.json] was used to access country names and compare with IBAN's list
-- The countries.json file was used to rename all images from (hampusborgos/country-flags/png1000px)[https://github.com/hampusborgos/country-flags/tree/main/png1000px] to the full country's name
--  Finally, all images that were copied to the input_images folder from (hampusborgos/country-flags/png1000px)[https://github.com/hampusborgos/country-flags/tree/main/png1000px] were renamed to the corresponding countrie's full name obtained from (hampusborgos/country-flags/countries.json)[https://github.com/hampusborgos/country-flags/blob/main/countries.json] in order to match the names and number of images
+- Country/economic regions pdf file was obtain from [IBAN's list of country codes Alpha-2 & Alpha-3 website](https://www.iban.com/country-codes)
+- The PDF was then converted to a csv file using a [free online tool](https://www.zamzar.com/convert/pdf-to-csv/)
+- The csv file with the list of countries was parsed and cleaned, clean data was saved to the [List of countries.csv](https://github.com/MicahNjeru/Python-Automation-Files/blob/main/List%20of%20countries.csv) file.
+- Countries JSON data file from [hampusborgos/country-flags/countries.json](https://github.com/hampusborgos/country-flags/blob/main/countries.json) was used to access country names and compare with IBAN's list
+- The countries.json file was used to rename all images from [hampusborgos/country-flags/png1000px](https://github.com/hampusborgos/country-flags/tree/main/png1000px) to the full country's name
+-  Finally, all images that were copied to the input_images folder from [hampusborgos/country-flags/png1000px](https://github.com/hampusborgos/country-flags/tree/main/png1000px) were renamed to the corresponding countrie's full name obtained from [hampusborgos/country-flags/countries.json](https://github.com/hampusborgos/country-flags/blob/main/countries.json) in order to match the names and number of images
 
 ## Key takeaway points
 
