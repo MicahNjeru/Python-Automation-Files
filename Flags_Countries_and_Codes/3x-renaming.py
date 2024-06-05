@@ -1,4 +1,10 @@
 ### Renaming Script for iOS asset images @3x 
+### Instructions:
+    ## 1. Create local folder with the name "3x"
+    ## 2. Create destination folder with the name "final_3x"
+    ## 3. Load all images into the "3x" folder
+    ## 4. Run the script and delete "3x" folder since all images are renamed and moved to "final_3x"
+    ## 5. Have fun!
 import os
 
 counter = 0
